@@ -1,6 +1,7 @@
 {   "author": "Gurvinder Singh Mudhar",
 	"name": "fcc-learn-npm-package-json",
-	"description": "A web app that teaches people the ability to make meaningful contributions to web",
+	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
+	"Keywords" : ["Books", "freecodecamp", "solving problems"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
