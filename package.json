@@ -1,5 +1,7 @@
-{   "author": "Gurvinder Singh Mudhar",
+{   
+	"author": "Gurvinder Singh Mudhar",
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
 	"keywords" : ["Books", "freecodecamp", "solving problems"],
 	"dependencies": {
