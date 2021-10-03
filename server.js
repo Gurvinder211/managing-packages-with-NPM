@@ -56,9 +56,7 @@ if (!process.env.DISABLE_XORIGIN) {
 //       .send(err.message || 'SERVER ERROR');
 //   }  
 // })
-app.get("/", function(req, res) {
-  res.sendFile(__dirname + "/views/index.html");
-});
+
 
 //Listen on port set in environment variable or default to 3000
 var port = process.env.PORT || 3000;
