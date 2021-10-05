@@ -1,6 +1,7 @@
 var express = require('express');
 var bGround = require('fcc-express-bground');
 var app = express();
+var bodyParser = require('body-parser');
 require('dotenv').config();
 
 app.use(function(req, res, next) {
